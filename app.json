@@ -1,0 +1,21 @@
+{
+  "expo": {
+    "name": "Mzansi Islamic Calendar",
+    "slug": "mzansi-islamic-calendar",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "android": {
+      "package": "com.mzansi.islamiccalendar",
+      "versionCode": 1,
+      "config": {
+        "googleMobileAdsAppId": "ca-app-pub-4208262193052210~6193500144"
+      }
+    }
+  }
+}
